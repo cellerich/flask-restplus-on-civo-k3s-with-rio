@@ -1,15 +1,15 @@
--i https://pypi.org/simple
+-i https://pypi.org/simple/
 aniso8601==8.0.0
 attrs==19.3.0
 click==7.0
 docxtpl==0.6.3
 flask-restplus==0.13.0
 flask==1.1.1
-importlib-metadata==0.23 ; python_version < '3.8'
+importlib-metadata==0.23
 itsdangerous==1.1.0
 jinja2==2.10.3
 jsonschema==3.2.0
-lxml==4.4.1
+lxml==4.6.2
 markupsafe==1.1.1
 more-itertools==7.2.0
 pyrsistent==0.15.5
